@@ -10,4 +10,5 @@ edit product:
 ![image](https://github.com/k4cper28/quickStoreSpring/assets/103234523/d9d7485c-3059-4181-b9e8-125fc79ae0b7)
 
 database:
+
 ![image](https://github.com/k4cper28/quickStoreSpring/assets/103234523/ac5d03de-ff11-4a4a-9807-a08245396700)
